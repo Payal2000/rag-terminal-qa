@@ -141,7 +141,7 @@ Please use `.env.example` to share your config template without exposing actual 
 ## 🙌 Author
 
 **Payal Sanjay Nagaonkar**  
-[LinkedIn](https://www.linkedin.com/in/payal-sanjay-nagaonkar-76b733188/) | [GitHub](https://github.com/Payal2000)
+[LinkedIn](https://www.linkedin.com/in/payal-sanjay) | [GitHub](https://github.com/Payal2000)
 
 ---
 
