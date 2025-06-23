@@ -27,7 +27,6 @@ This project is a Retrieval-Augmented Generation (RAG) system that allows users 
 
 ## 🧩 Folder Structure
 
-\`\`\`
 rag_terminal_qa/
 ├── ingest.py              # CLI script to process and embed PDFs
 ├── query.py               # CLI script to ask questions
@@ -40,7 +39,7 @@ rag_terminal_qa/
 ├── .env.example           # Safe template for environment variables
 ├── requirements.txt
 └── README.md
-\`\`\`
+
 
 ---
 
